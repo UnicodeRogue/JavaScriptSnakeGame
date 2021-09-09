@@ -1,1 +1,4 @@
 # JavaScriptSnakeGame
+
+### ToDos
+- refactor code
