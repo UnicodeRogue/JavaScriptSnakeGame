@@ -10,3 +10,7 @@
   font-size: 150px;
   font-family: 'Antic Slab', serif;
 }
+
+footer {
+  display: block;
+}
