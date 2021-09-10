@@ -1,12 +1,12 @@
 #gameCanvas {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-      }
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 #score {
-    text-align: center;
-    font-size: 150px;
-    font-family: 'Antic Slab', serif;
-      }
+  text-align: center;
+  font-size: 150px;
+  font-family: 'Antic Slab', serif;
+}
