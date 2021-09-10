@@ -2,12 +2,12 @@
 
 
 ### Source:
-Built with the generous guidence of [Panayiotis Nicolaou](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
+Built with code and the generous guidance of [Panayiotis Nicolaou's](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/) snake game tutorial 🐍
 
-### ToDos
+### ToDos:
 🎉
 
-#### Done
+#### Done:
 - Make individual files for HTLM, CSS, and JS
 - Refactor code
 - Test on Codepen
